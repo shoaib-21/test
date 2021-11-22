@@ -5,7 +5,8 @@
     }
     main {
       height: 80%;
-  
+      margin: auto 20px !important;
+        
       
     }
     br.desktop-br {
